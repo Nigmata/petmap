@@ -126,7 +126,7 @@ body {
 }
 /*CSS del MAPA*/
 
-#map {
+#mapid {
   position: relative;
   width: 99.4%;
   margin: 0;
